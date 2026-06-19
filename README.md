@@ -22,10 +22,38 @@
 
 ---
 
-### 🧰 Tech Toolbox
+## 🔹 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,postgresql,python,cpp,docker,git,github" />
+  <b>Backend</b><br>
+  <img src="https://demolab.com" />
+  <img src="https://demolab.com" />
+  <img src="https://demolab.com" />
+  <img src="https://demolab.com" />
+  <img src="https://demolab.com" />
+  <img src="https://demolab.com" />
+  <img src="https://demolab.com" />
+</p>
+
+<p align="center">
+  <b>Frontend</b><br>
+  <img src="https://demolab.com" />
+  <img src="https://demolab.com" />
+  <img src="https://demolab.com" />
+</p>
+
+<p align="center">
+  <b>Cloud & DevOps</b><br>
+  <img src="https://demolab.com" />
+  <img src="https://demolab.com" />
+  <img src="https://demolab.com" />
+</p>
+
+<p align="center">
+  <b>Databases</b><br>
+  <img src="https://demolab.com" />
+  <img src="https://demolab.com" />
+  <img src="https://demolab.com" />
 </p>
 
 ---
