@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Gowtham Banner"/>
+  <img src="./assets/banner.gif" width="100%" alt="Gowtham Banner"/>
 </p>
 
 <h1 align="center">Hey 👋 I'm Gowtham</h1>
