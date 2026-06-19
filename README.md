@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif" width="100%" alt="Gowtham Banner"/>
+  <img src="./assets/banner.gif" width="70%" alt="Gowtham Banner"/>
 </p>
 
 <h1 align="center">Hey 👋 I'm Gowtham</h1>
@@ -7,63 +7,66 @@
 
 ---
 
-<p align="center">
-<i>"First, solve the problem. Then, write the code."</i>
-</p>
+## ◈ About Me
+
+```text
+                                ╔═══════════════════════════════════════════════════════════════════╗
+                                ║  Name     →  Gowtham Dakinedi                                     ║
+                                ║  Course   →  B.Tech Data Science Student                          ║
+                                ║  Passion  →  Full Stack Development & System Architectures        ║
+                                ║  Learning →  Spring Boot & Advanced SQL Architectures             ║
+                                ║  Mission  →  Always learning, evolving, and building new systems  ║
+                                ╚═══════════════════════════════════════════════════════════════════╝
+```
+> *"First, solve the problem. Then, write the code."*
+<br/>
 
 ---
 
-### 🧠 Who Am I?
+## ◈ Tech Stack
 
-- 🎓 B.Tech Data Science Student
-- 💻 Passionate about Full Stack Development
-- 🌱 Currently learning Spring Boot & SQL
-- 🚀 Always learning and building new projects
+<div align="center">
 
----
+**Backend**
 
-## 🔹 Tech Stack
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=e94560)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1a2e?style=for-the-badge&logo=springboot&logoColor=e94560)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=e94560)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=e94560)
+![Flask](https://img.shields.io/badge/Flask-1a1a2e?style=for-the-badge&logo=flask&logoColor=e94560)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=e94560)
+![Express](https://img.shields.io/badge/Express-1a1a2e?style=for-the-badge&logo=express&logoColor=e94560)
 
-<p align="center">
-  <b>Backend</b><br>
-  <img src="https://demolab.com" />
-  <img src="https://demolab.com" />
-  <img src="https://demolab.com" />
-  <img src="https://demolab.com" />
-  <img src="https://demolab.com" />
-  <img src="https://demolab.com" />
-  <img src="https://demolab.com" />
-</p>
+**Frontend**
 
-<p align="center">
-  <b>Frontend</b><br>
-  <img src="https://demolab.com" />
-  <img src="https://demolab.com" />
-  <img src="https://demolab.com" />
-</p>
+![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=e94560)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=e94560)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-1a1a2e?style=for-the-badge&logo=tailwindcss&logoColor=e94560)
 
-<p align="center">
-  <b>Cloud & DevOps</b><br>
-  <img src="https://demolab.com" />
-  <img src="https://demolab.com" />
-  <img src="https://demolab.com" />
-</p>
+**Cloud & DevOps**
 
-<p align="center">
-  <b>Databases</b><br>
-  <img src="https://demolab.com" />
-  <img src="https://demolab.com" />
-  <img src="https://demolab.com" />
-</p>
+![AWS](https://img.shields.io/badge/AWS_Certified-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=e94560)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=e94560)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a2e?style=for-the-badge&logo=githubactions&logoColor=e94560)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=e94560)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=e94560)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=e94560)
+
+</div>
+
+<br/>
 
 ---
 
-### ⚡ What I Build
+## ◈ What I Build
 
-- 🎯 Full Stack Web Applications
-- ✨ Responsive User Interfaces
-- 🧩 MERN Stack Projects
-- 🔁 REST APIs & Database Integration
+- 🚀 Full Stack Web Applications — Responsive User Interfaces
+- 🤖 MERN Stack Projects — Crafting dynamic and interactive web applications
+- ⚙️ REST APIs — Database Integration and robust backend communication
+- 📬 Open to — Collaborating on innovative software projects
 
 ---
 
@@ -75,17 +78,20 @@
 
 ---
 
-### 🔗 Connect With Me
+## ◈ Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gowthamdakinedi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<div align="center">
 
-  <a href="https://github.com/gowtham-178" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=e94560&labelColor=0d0d1a)](https://linkedin.com/in/gowthamdakinedi)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Reach_Out-1a1a2e?style=for-the-badge&logo=gmail&logoColor=e94560&labelColor=0d0d1a)](mailto:gowthamdakinedi@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Explore-1a1a2e?style=for-the-badge&logo=github&logoColor=e94560&labelColor=0d0d1a)](https://github.com/gowtham-178)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=e94560&labelColor=0d0d1a)]((https://leetcode.com/u/gowtham_178/))
+
+</div>
+<br/>
 
 ---
 
