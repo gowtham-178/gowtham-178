@@ -63,10 +63,14 @@
 
 ## ◈ What I Build
 
-- 🚀 Full Stack Web Applications — Responsive User Interfaces
-- 🤖 MERN Stack Projects — Crafting dynamic and interactive web applications
-- ⚙️ REST APIs — Database Integration and robust backend communication
-- 📬 Open to — Collaborating on innovative software projects
+```text
+                                ╔═════════════════════════════════════════════════════════════════════╗
+                                ║  ◆  Full Stack Web Applications  →  Responsive User Interfaces     ║
+                                ║  ◆  MERN Stack Projects          →  Dynamic & Interactive Web Apps ║
+                                ║  ◆  REST APIs                    →  Database Integration & Backend ║
+                                ║  ◆  Open to Collaborate          →  Innovative Software Projects   ║
+                                ╚═════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
@@ -88,11 +92,13 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Explore-1a1a2e?style=for-the-badge&logo=github&logoColor=e94560&labelColor=0d0d1a)](https://github.com/gowtham-178)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=e94560&labelColor=0d0d1a)]((https://leetcode.com/u/gowtham_178/))
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=e94560&labelColor=0d0d1a)](https://leetcode.com/u/gowtham_178/)
 
 </div>
 <br/>
 
 ---
 
-<h4 align="center">✨ Built with Passion ✨</h4>
+```text
+  ◈  Built with Passion
+```
