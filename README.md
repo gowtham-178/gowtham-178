@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey 👋 I'm Gowtham</h1>
-<h3 align="center">MERN Stack Developer • Java Learner • Tech Explorer</h3>
+<h3 align="center">FULL Stack Developer • Java Learner • Tech Explorer</h3>
 
 ---
 
