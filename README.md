@@ -9,15 +9,10 @@
 
 ## ◈ About Me
 
-```text
-                                ╔═══════════════════════════════════════════════════════════════════╗
-                                ║  Name     →  Gowtham Dakinedi                                     ║
-                                ║  Course   →  B.Tech Data Science Student                          ║
-                                ║  Passion  →  Full Stack Development & System Architectures        ║
-                                ║  Learning →  Spring Boot & Advanced SQL Architectures             ║
-                                ║  Mission  →  Always learning, evolving, and building new systems  ║
-                                ╚═══════════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="./assets/about.svg" width="100%" alt="About Me Terminal"/>
+</p>
+
 > *"First, solve the problem. Then, write the code."*
 <br/>
 
@@ -32,8 +27,6 @@
 ![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=e94560)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1a2e?style=for-the-badge&logo=springboot&logoColor=e94560)
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=e94560)
-![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=e94560)
-![Flask](https://img.shields.io/badge/Flask-1a1a2e?style=for-the-badge&logo=flask&logoColor=e94560)
 ![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=nodedotjs&logoColor=e94560)
 ![Express](https://img.shields.io/badge/Express-1a1a2e?style=for-the-badge&logo=express&logoColor=e94560)
 
@@ -58,27 +51,6 @@
 </div>
 
 <br/>
-
----
-
-## ◈ What I Build
-
-```text
-                                ╔═════════════════════════════════════════════════════════════════════╗
-                                ║  ◆  Full Stack Web Applications  →  Responsive User Interfaces     ║
-                                ║  ◆  MERN Stack Projects          →  Dynamic & Interactive Web Apps ║
-                                ║  ◆  REST APIs                    →  Database Integration & Backend ║
-                                ║  ◆  Open to Collaborate          →  Innovative Software Projects   ║
-                                ╚═════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gowtham-178/gowtham-178/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gowtham-178/gowtham-178/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gowtham-178/gowtham-178/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
